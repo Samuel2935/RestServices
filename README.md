@@ -1,2 +1,3 @@
 # RestServices
-REST services using spring boot
+Building a REST API that power library borrowing system
+
